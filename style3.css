@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image:url('shopbg.jpg') !important;
+  background-size:cover !important;
+  background-repeat: no-repeat !important;
+}
+
